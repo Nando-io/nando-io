@@ -1,4 +1,4 @@
-## Hi there, welcome to my profile! 
+## Welcome to Nando-io's profile! 
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG50eHNpdXhlNnNrbHRnYWVubjNoZzBpYjNid3hiYmJzejdmemxqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
