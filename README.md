@@ -12,6 +12,7 @@
 - 💬 Ask me about ... Music Collecting, GHE, GHAS, and CoPilot
 - 📫 How to reach me: ... nando-io@github.com
 - 😄 Pronouns: ... HE/HIM/HIS
+- 📖 Currently Reading ... The Phoenix Project by Gene Kim, George Spafford, and Kevin Behr 
 - ⚡ Fun fact: ... I like playing musical instruments, reading, and learning new languages. 
 
 
