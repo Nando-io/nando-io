@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate on ... anything you believe my experience would be helpful
 - 🤔 I’m looking for help with ... brushing up on terminology. 
 - 💬 Ask me about ... Music Collecting, GHE, GHAS, and CoPilot
-- 📫 How to reach me: ... nando-io@github.com
 - 😄 Pronouns: ... HE/HIM/HIS
 - 📖 Currently Reading ... Multipliers: How the Best Leaders Make Everyone Smarter by Liz Wiseman
 - ⚡ Fun fact: ... I like playing musical instruments, reading, and learning new languages. 
