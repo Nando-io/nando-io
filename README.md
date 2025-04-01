@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with ... brushing up on terminology. 
 - 💬 Ask me about ... Music Collecting, GHE, GHAS, and CoPilot
 - 😄 Pronouns: ... HE/HIM/HIS
-- 📖 Currently Reading ... Multipliers: How the Best Leaders Make Everyone Smarter by Liz Wiseman
+- 📖 Currently Reading ... Nexus by Yuval Noah Harari
 - ⚡ Fun fact: ... I like playing musical instruments, reading, and learning new languages. 
 
 
