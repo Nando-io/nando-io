@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on ... learning GitHub
-- 🌱 I’m currently learning ... DevOps, GitHub Copilot, GHE, and GHAS
+- 🌱 I’m currently learning ... Actions, GitHub Advanced Security, and container applications
 - 👯 I’m looking to collaborate on ... anything you believe my experience would be helpful
 - 🤔 I’m looking for help with ... brushing up on terminology. 
 - 💬 Ask me about ... Music Collecting, GHE, GHAS, and CoPilot
